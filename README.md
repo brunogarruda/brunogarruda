@@ -1,5 +1,5 @@
 ### Me chamo, Bruno Arruda 👋
-tenho 24 anos, e já progamo a 6 anos como desenvolvedor fullstack, atuando principalmente com Angular e Java como minha principais stacks, atuamento trabalho também com diversos recursos em cloud Azure
+tenho 24 anos, já programo a 6 anos como desenvolvedor fullstack, atuando principalmente com Angular e Java como minha principais stacks, atuamento trabalho também com diversos recursos em cloud Azure
 
 ## **Linguagens e Ferramentas:**  
 
